@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     # Profile-3d graph
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4.1.7
       - name: Move to output branch
         run: |
           git pull
@@ -19,7 +19,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
           GITHUB_TOKEN: ${{ secrets.SNAKE_CONTRIBUTION }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: matera-hensiq
     # Snake Animation
       - uses: Platane/snk/svg-only@v3
         id: snake-gif
