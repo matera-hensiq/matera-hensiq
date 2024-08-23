@@ -17,6 +17,7 @@
 ## Other Profiles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-sartori-siqueira-38a46761/)
+[![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h-ssiqueira/)
 [![HackerRank](https://img.shields.io/badge/Hackerrank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hss01)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/875052)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@henriquesartorisiqueira)
@@ -35,9 +36,6 @@
 </div>
 <div align="center">
     <a href="https://github.com/matera-hensiq/matera-hensiq">
-	<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matera-hensiq&layout=compact&langs_count=10&theme=tokyonight&title_color=2895BC&hide=VHDL,Stata&custom_title=Most%20recently%20used%20languages" alt="Most recently used languages">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matera-hensiq&hide=issues&show_icons=true&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true" alt="GitHub stats">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=matera-hensiq&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
 	<img src="https://github.com/matera-hensiq/matera-hensiq/blob/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation">
-	</a>
+    </a>
 </div>
