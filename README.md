@@ -28,7 +28,6 @@
 
 [![StackOverflow](https://stackoverflow-readme-profile.johannchopin.fr/profile/13788141?website=false&theme=dark)](https://stackoverflow.com/users/13788141/hss)
 
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/h_s_s)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/h_ssiqueira/)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/henrique_ss?si=a172471e4c4a44d1)
 
